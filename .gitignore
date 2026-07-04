@@ -1,0 +1,20 @@
+# Ficheiros de estado gerados em tempo de execução
+auth_log.json
+banned_ips.json
+
+# Base de dados de geolocalização (descarregada à parte)
+*.mmdb
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Ambientes e editores
+.vscode/
+.idea/
+*.swp
+.DS_Store
