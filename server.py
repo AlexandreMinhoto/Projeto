@@ -1,5 +1,5 @@
 """
-Zero Trust Authentication Server.
+Risk Based Authentication Server.
 
 Servidor de autenticação com análise de risco em tempo real. Cada pedido é
 avaliado por seis fatores independentes que, combinados, geram um score de
