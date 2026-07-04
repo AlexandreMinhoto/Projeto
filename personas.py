@@ -1,5 +1,5 @@
 """
-Simulação de personas para o Zero Trust Authentication Server.
+Simulação de personas para o Risk Based Authentication Server.
 
 Este script exercita o servidor de autenticação através de um conjunto de
 personas, cada uma representando um perfil de utilizador ou atacante com um
