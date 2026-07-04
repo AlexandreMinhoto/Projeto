@@ -1,4 +1,4 @@
-# Zero Trust Authentication Server
+# Risk Based Authentication Server
 
 Sistema de autenticação baseado em risco, fundamentado no paradigma **Zero Trust** ("nunca confiar, verificar sempre"). Cada pedido de autenticação é avaliado em tempo real por seis fatores contextuais independentes que, combinados, produzem um score de risco de 0 a 100, a partir do qual o sistema aplica automaticamente uma de cinco decisões adaptativas.
 
